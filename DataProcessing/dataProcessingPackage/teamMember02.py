@@ -5,12 +5,8 @@
 # Due Date: 4/16/25
 # Course #/Section: IS 4010-001
 # Semester/Year: Spring 2025
-# Brief Description of the assignment: Complete an incomplete module that processes data from a dataset and produces
-# an interesting output.
-
-# Brief Description of what this module does: Familiarizes us with working with datasets and extracting insights 
-# from them
-
+# Brief Description of the assignment: Complete an incomplete module that processes data from a dataset and produces an interesting output.
+# Brief Description of what this module does: Familiarizes us with working with datasets and extracting insights from them
 # Citations: https://blog.finxter.com/5-best-ways-to-calculate-element-frequencies-in-percent-range-using-python/
 # Anything else that's relevant:
 
